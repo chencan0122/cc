@@ -7,7 +7,7 @@ const AboutPage: React.FC = () => {
     <>
       <Helmet>
         <title>关于我 | 我的技术博客</title>
-        <meta name="description" content="全栈工程师张三，分享前端工程化与性能优化心得。" />
+        <meta name="description" content="学生陈灿，分享前端工程化与性能优化心得。" />
       </Helmet>
       <div className={styles.page}>
         <h1 className={styles.pageTitle}>关于我</h1>
