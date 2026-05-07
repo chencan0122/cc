@@ -12,10 +12,10 @@ const AboutPage: React.FC = () => {
       <div className={styles.page}>
         <h1 className={styles.pageTitle}>关于我</h1>
         <div className={styles.aboutContent}>
-          <p>👋 你好，我是张三，一名热爱技术的全栈开发工程师。</p>
-          <p>拥有5年一线大厂经验，目前专注于前端工程化、性能优化和React生态。</p>
-          <p>这个博客记录我的学习心得、实战技巧，希望能帮助到同样热爱前端的你。</p>
-          <p>📧 联系我：zhang.san@example.com</p>
+          <p>👋 你好，我是陈灿，一名网络工程专业学生。</p>
+          <p>希望我们多多交流，互相学习。</p>
+          <p>这个博客记录我的学习心得、实战技巧，希望能帮助到同样热爱网络工程的你。</p>
+          <p>📧 联系我：1154827041@qq.com</p>
         </div>
       </div>
     </>
