@@ -57,10 +57,10 @@ const Sidebar: React.FC<SidebarProps> = ({onSubscribe}) => {
         <div className={styles.authorInfo}>
           <img
             src="https://avatars.githubusercontent.com/u/218383647?u=7741169a993f131d84d5a78a9979cc0073df09a9&v=4&size=64"
-            alt="梁英超"
+            alt="陈灿"
             className={styles.avatar}
           />
-          <p>lyc，全栈开发工程师，热爱分享技术。拥有5年一线大厂经验，目前专注于前端工程化与性能优化。</p>
+          <p>陈灿，大三在读大学生，喜欢网络工程专业，前后端开发。</p>
         </div>
       </section>
 
