@@ -56,7 +56,7 @@ const Sidebar: React.FC<SidebarProps> = ({onSubscribe}) => {
         <h3>关于作者</h3>
         <div className={styles.authorInfo}>
           <img
-            src="https://avatars.githubusercontent.com/u/218383647?u=7741169a993f131d84d5a78a9979cc0073df09a9&v=4&size=64"
+            src="https://avatars.githubusercontent.com/u/282464060?v=4"
             alt="陈灿"
             className={styles.avatar}
           />
