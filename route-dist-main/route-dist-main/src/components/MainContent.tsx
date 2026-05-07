@@ -42,7 +42,7 @@ interface Article {
             id: 1,
             title: "理解 JavaScript 闭包",
             date: "2030-08-10",
-            author: "张三",
+            author: "陈灿",
             contentSections: [
               { title: "什么是闭包？", text: "闭包是指有权访问另一个函数作用域中的变量的函数..." },
               { title: "实际应用场景", text: "闭包常用于模块化、数据私有化...", code: `function createCounter() {...}` }
@@ -53,7 +53,7 @@ interface Article {
             id: 2,
             title: "CSS Grid 入门",
             date: "2030-08-15",
-            author: "张三",
+            author: "陈灿",
             contentSections: [
               { title: "什么是Grid布局？", text: "Grid 是二维布局系统，可同时处理行和列..." }
             ],
@@ -63,7 +63,7 @@ interface Article {
             id: 3,
             title: "React入门基础",
             date: "2030-08-15",
-            author: "张三",
+            author: "陈灿",
             contentSections: [
               {
                 title: "什么是Grid布局？",
